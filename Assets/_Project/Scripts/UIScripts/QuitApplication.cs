@@ -8,7 +8,7 @@ public class QuitApplication : MonoBehaviour
 		Application.Quit();
 #endif
 #if UNITY_WEBGL
-		Application.OpenURL("https://gamejolt.com/games/darklings/640842");
+		Application.OpenURL("https://solanafightclub.xyz");
 #endif
 	}
 }

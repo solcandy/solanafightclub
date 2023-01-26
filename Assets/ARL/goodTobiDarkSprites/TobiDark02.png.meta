@@ -1,0 +1,2651 @@
+fileFormatVersion: 2
+guid: aff478997c2754dd7be98c5594ce7814
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3298677360103273525
+    second: Daru_0
+  - first:
+      213: -4889917892529473894
+    second: Daru_1
+  - first:
+      213: -6098769088012068880
+    second: Daru_2
+  - first:
+      213: 8791118048708884150
+    second: Daru_3
+  - first:
+      213: 232030691225633906
+    second: Daru_4
+  - first:
+      213: 4771686749228045053
+    second: Daru_5
+  - first:
+      213: 9129292988679981712
+    second: Daru_6
+  - first:
+      213: -3741383262281641641
+    second: Daru_7
+  - first:
+      213: 327235551017781480
+    second: Daru_8
+  - first:
+      213: 6457242095719068852
+    second: Daru_9
+  - first:
+      213: -8802738783728900723
+    second: Daru_10
+  - first:
+      213: -6184375832430873084
+    second: Daru_11
+  - first:
+      213: 7191333311054034467
+    second: Daru_12
+  - first:
+      213: -8418377129083305369
+    second: Daru_13
+  - first:
+      213: 4489000359469942750
+    second: Daru_14
+  - first:
+      213: 6439248037084270686
+    second: Daru_15
+  - first:
+      213: 3057414565431125926
+    second: Daru_16
+  - first:
+      213: -1470310871346340530
+    second: Daru_17
+  - first:
+      213: 3093409880528071918
+    second: Daru_18
+  - first:
+      213: -4235094885366349738
+    second: Daru_19
+  - first:
+      213: -3846039197114450725
+    second: Daru_20
+  - first:
+      213: 8042731815134049317
+    second: Daru_21
+  - first:
+      213: 6166074135089479043
+    second: Daru_22
+  - first:
+      213: -2419352695715461771
+    second: Daru_23
+  - first:
+      213: 6347900156470584161
+    second: Daru_24
+  - first:
+      213: 7426576071058062605
+    second: Daru_25
+  - first:
+      213: 5409194358988156872
+    second: Daru_26
+  - first:
+      213: -8460128148770824549
+    second: Daru_27
+  - first:
+      213: 3414410648344299392
+    second: Daru_28
+  - first:
+      213: 5875484243599395917
+    second: Daru_29
+  - first:
+      213: 4922396437791815842
+    second: Daru_30
+  - first:
+      213: 6888063214549672537
+    second: Daru_31
+  - first:
+      213: -7442581347593179199
+    second: Daru_32
+  - first:
+      213: 7046348050349985918
+    second: Daru_33
+  - first:
+      213: 2811485667725716663
+    second: Daru_34
+  - first:
+      213: -290945292168739012
+    second: Daru_35
+  - first:
+      213: -7230085221019465345
+    second: Daru_36
+  - first:
+      213: -2564333057115171016
+    second: Daru_37
+  - first:
+      213: 3560563183358409258
+    second: Daru_38
+  - first:
+      213: 1980592919170288612
+    second: Daru_39
+  - first:
+      213: 8603866543351507922
+    second: Daru_40
+  - first:
+      213: 209610244341317351
+    second: Daru_41
+  - first:
+      213: 811320639970404491
+    second: Daru_42
+  - first:
+      213: -8756308734559303524
+    second: Daru_43
+  - first:
+      213: 5292844293699914784
+    second: Daru_44
+  - first:
+      213: 2911888059902528119
+    second: Daru_45
+  - first:
+      213: -5827376661782305571
+    second: Daru_46
+  - first:
+      213: 1712246617658367841
+    second: Daru_47
+  - first:
+      213: 214173339354191041
+    second: Daru_48
+  - first:
+      213: 5221629660102595204
+    second: Daru_49
+  - first:
+      213: -7633513108572163116
+    second: Daru_50
+  - first:
+      213: 2924791345205906258
+    second: Daru_51
+  - first:
+      213: -6376627131530007141
+    second: Daru_52
+  - first:
+      213: -6169643976751139597
+    second: Daru_53
+  - first:
+      213: 8126243661287191184
+    second: Daru_54
+  - first:
+      213: -2149062833317314769
+    second: Daru_55
+  - first:
+      213: 768943901961345624
+    second: Daru_56
+  - first:
+      213: -1342369644791557257
+    second: Daru_57
+  - first:
+      213: -837583036771857614
+    second: Daru_58
+  - first:
+      213: 5998068136641070481
+    second: Daru_59
+  - first:
+      213: -1888166127069491432
+    second: Daru_60
+  - first:
+      213: -6299526563088866408
+    second: Daru_61
+  - first:
+      213: 1054091157207448039
+    second: Daru_62
+  - first:
+      213: -7004126268975149354
+    second: Daru_63
+  - first:
+      213: 3581847163832291910
+    second: Daru_64
+  - first:
+      213: -4304232869765846073
+    second: Daru_65
+  - first:
+      213: -8689087551739988396
+    second: Daru_66
+  - first:
+      213: -4898167921032279032
+    second: Daru_67
+  - first:
+      213: 9095898900314086201
+    second: Daru_68
+  - first:
+      213: -487132907878603298
+    second: Daru_69
+  - first:
+      213: -7944644014998922475
+    second: Daru_70
+  - first:
+      213: 259993526973610081
+    second: Daru_71
+  - first:
+      213: -5014955793141242305
+    second: Daru_72
+  - first:
+      213: 8939673986531529282
+    second: Daru_73
+  - first:
+      213: 1414233160366002286
+    second: Daru_74
+  - first:
+      213: 3078997743060781142
+    second: Daru_75
+  - first:
+      213: -4563351852690170655
+    second: Daru_76
+  - first:
+      213: 5989636600272833393
+    second: Daru_77
+  - first:
+      213: -5577894152637305440
+    second: Daru_78
+  - first:
+      213: -4301095179436998524
+    second: Daru_79
+  - first:
+      213: -5495501421084660403
+    second: Daru_80
+  - first:
+      213: -7889412916199219049
+    second: Daru_81
+  - first:
+      213: 6816110302272166303
+    second: Daru_82
+  - first:
+      213: 7460820009645681000
+    second: Daru_83
+  - first:
+      213: -5430334395919013272
+    second: Daru_84
+  - first:
+      213: -8135021256793619271
+    second: Daru_85
+  - first:
+      213: 5918776753449523106
+    second: Daru_86
+  - first:
+      213: -2862686164868068733
+    second: Daru_87
+  - first:
+      213: -9027208199892774655
+    second: Daru_88
+  - first:
+      213: 1087328842621191856
+    second: Daru_89
+  - first:
+      213: -8395577390784237414
+    second: Daru_90
+  - first:
+      213: 1962516857562160436
+    second: Daru_91
+  - first:
+      213: -3071769222295848542
+    second: Daru_92
+  - first:
+      213: -5639223184790558958
+    second: Daru_93
+  - first:
+      213: -7876731812794236463
+    second: Daru_94
+  - first:
+      213: -7350381586538559065
+    second: Daru_95
+  - first:
+      213: -5740482925191604190
+    second: Daru_96
+  - first:
+      213: 8543857422220667281
+    second: Daru_97
+  - first:
+      213: 8330971030393888794
+    second: Daru_98
+  - first:
+      213: -6490337052651360399
+    second: Daru_99
+  - first:
+      213: 6810085447874220017
+    second: Daru_100
+  - first:
+      213: 1382979263237231338
+    second: Daru_101
+  - first:
+      213: -7496874428019780105
+    second: Daru_102
+  - first:
+      213: 2596178137374152865
+    second: Daru_103
+  - first:
+      213: -4880108750714356459
+    second: Daru_104
+  - first:
+      213: 2112652889090146526
+    second: Daru_105
+  - first:
+      213: 5182482663615349052
+    second: Daru_106
+  - first:
+      213: 5300574590277420758
+    second: Daru_107
+  - first:
+      213: -295196422712074109
+    second: Daru_108
+  - first:
+      213: -1519933684786418531
+    second: Daru_109
+  - first:
+      213: -7973923329031222311
+    second: Daru_110
+  - first:
+      213: 8829954892355365676
+    second: Daru_111
+  - first:
+      213: -3527588107173353949
+    second: Daru_112
+  - first:
+      213: -3847580103000523529
+    second: Daru_113
+  - first:
+      213: -844838463342645028
+    second: Daru_114
+  - first:
+      213: 5186788704890220797
+    second: Daru_115
+  - first:
+      213: -8706958970705561912
+    second: Daru_116
+  - first:
+      213: 5712118752806732561
+    second: Daru_117
+  - first:
+      213: 8522697526639334987
+    second: Daru_118
+  - first:
+      213: 1856408985533301436
+    second: Daru_119
+  - first:
+      213: -997245237094226900
+    second: Daru_120
+  - first:
+      213: -635869416638351892
+    second: Daru_121
+  - first:
+      213: 1722127452632399241
+    second: Daru_122
+  - first:
+      213: 9093321770511781425
+    second: Daru_123
+  - first:
+      213: 3926820422791968807
+    second: Daru_124
+  - first:
+      213: -8307182684538027393
+    second: Daru_125
+  - first:
+      213: 4919818807546300379
+    second: Daru_126
+  - first:
+      213: -8174208701268777287
+    second: Daru_127
+  - first:
+      213: -2644494632365200717
+    second: Daru_128
+  - first:
+      213: -5381254541223399737
+    second: Daru_129
+  - first:
+      213: 2081459745377056539
+    second: Daru_130
+  - first:
+      213: -9220647226017630878
+    second: Daru_131
+  - first:
+      213: -7778911094959778539
+    second: Daru_132
+  - first:
+      213: 4040895220437221626
+    second: Daru_133
+  - first:
+      213: 6286733285641669017
+    second: Daru_134
+  - first:
+      213: -3247322833279977889
+    second: Daru_135
+  - first:
+      213: 14000203122112832
+    second: Daru_136
+  - first:
+      213: 5196034034898387462
+    second: Daru_137
+  - first:
+      213: 8956587842450140126
+    second: Daru_138
+  - first:
+      213: 5020815227806920767
+    second: Daru_139
+  - first:
+      213: -3352814664474442324
+    second: Daru_140
+  - first:
+      213: -440135317686107815
+    second: Daru_141
+  - first:
+      213: -976199381831210789
+    second: Daru_142
+  - first:
+      213: 8141908420234829819
+    second: Daru_143
+  - first:
+      213: 2077338288804383369
+    second: Daru_144
+  - first:
+      213: -1057209914508143932
+    second: Daru_145
+  - first:
+      213: -5919616785849488723
+    second: Daru_146
+  - first:
+      213: -4357520888084534554
+    second: Daru_147
+  - first:
+      213: -1725974487880457703
+    second: Daru_148
+  - first:
+      213: -8537097363917277323
+    second: Daru_149
+  - first:
+      213: -817946591728586722
+    second: Daru_150
+  - first:
+      213: -1369195665215260021
+    second: Daru_151
+  - first:
+      213: 7505148278223066387
+    second: Daru_152
+  - first:
+      213: 4610817149400857977
+    second: Daru_153
+  - first:
+      213: -9207455458636174686
+    second: Daru_154
+  - first:
+      213: -2809130508679705443
+    second: Daru_155
+  - first:
+      213: 7726023198505064194
+    second: Daru_156
+  - first:
+      213: 4055115492650260212
+    second: Daru_157
+  - first:
+      213: 2448536509799895405
+    second: Daru_158
+  - first:
+      213: -8492044992954254179
+    second: Daru_159
+  - first:
+      213: 8738300849168346453
+    second: Daru_160
+  - first:
+      213: 7030826065623802312
+    second: Daru_161
+  - first:
+      213: 6362472163796103562
+    second: Daru_162
+  - first:
+      213: -8092839329936123902
+    second: Daru_163
+  - first:
+      213: -5476253345491482965
+    second: Daru_164
+  - first:
+      213: 8684816957483275042
+    second: Daru_165
+  - first:
+      213: 8358594625430799960
+    second: Daru_166
+  - first:
+      213: -2886492902219759288
+    second: Daru_167
+  - first:
+      213: 5104747715075717355
+    second: Daru_168
+  - first:
+      213: -307879294480946353
+    second: Daru_169
+  - first:
+      213: 3658516147261104181
+    second: TobiDark_0
+  - first:
+      213: 3529404021340959030
+    second: TobiDark_1
+  - first:
+      213: 989342935226193601
+    second: TobiDark_2
+  - first:
+      213: 7448093358630064778
+    second: TobiDark_3
+  - first:
+      213: -862997049588526861
+    second: TobiDark_4
+  - first:
+      213: 2166110086443776551
+    second: TobiDark_5
+  - first:
+      213: -6874591499054532013
+    second: TobiDark_6
+  - first:
+      213: -9170126424487705792
+    second: TobiDark_7
+  - first:
+      213: -2299353688092795551
+    second: TobiDark_8
+  - first:
+      213: -8227158441401563125
+    second: TobiDark_9
+  - first:
+      213: 6709779200210572627
+    second: TobiDark_10
+  - first:
+      213: -5268710204802208529
+    second: TobiDark_11
+  - first:
+      213: -3527301271783921054
+    second: TobiDark_12
+  - first:
+      213: -2181508933836533167
+    second: TobiDark_13
+  - first:
+      213: -8440494193064946306
+    second: TobiDark_14
+  - first:
+      213: -842327317378801174
+    second: TobiDark_15
+  - first:
+      213: -2937343366358989232
+    second: TobiDark_16
+  - first:
+      213: 319619564090410907
+    second: TobiDark_17
+  - first:
+      213: -2062293896792096708
+    second: TobiDark_18
+  - first:
+      213: 2367885457682260800
+    second: TobiDark_19
+  - first:
+      213: 8916322583396856847
+    second: TobiDark_20
+  - first:
+      213: -2076347131825676207
+    second: TobiDark_21
+  - first:
+      213: -8524045123112626854
+    second: TobiDark_22
+  - first:
+      213: -4615463640057343563
+    second: TobiDark_23
+  - first:
+      213: 7411693061554061956
+    second: TobiDark_24
+  - first:
+      213: 2184939701292970755
+    second: TobiDark_25
+  - first:
+      213: -1864962796115417681
+    second: TobiDark_26
+  - first:
+      213: -5894142223854987102
+    second: TobiDark_27
+  - first:
+      213: -4405428118990071130
+    second: TobiDark_28
+  - first:
+      213: 7558774608278478110
+    second: TobiDark_29
+  - first:
+      213: 6158314829534468987
+    second: TobiDark_30
+  - first:
+      213: -7387754582530788371
+    second: TobiDark_31
+  - first:
+      213: -2266802250162099909
+    second: TobiDark_32
+  - first:
+      213: -8145314982784130699
+    second: TobiDark_33
+  - first:
+      213: 3440367830908088792
+    second: TobiDark_34
+  - first:
+      213: 5512006212017119892
+    second: TobiDark_35
+  - first:
+      213: -9216915633227781252
+    second: TobiDark_36
+  - first:
+      213: 5955574377628142957
+    second: TobiDark_37
+  - first:
+      213: 1855338561430756547
+    second: TobiDark_38
+  - first:
+      213: 4615509854267872986
+    second: TobiDark_39
+  - first:
+      213: 88817997577264502
+    second: TobiDark_40
+  - first:
+      213: 4859344967004798977
+    second: TobiDark_41
+  - first:
+      213: 1461721139076153149
+    second: TobiDark_42
+  - first:
+      213: 3819422379827094760
+    second: TobiDark_43
+  - first:
+      213: -290234520100094163
+    second: TobiDark_44
+  - first:
+      213: 6966163419417198354
+    second: TobiDark_45
+  - first:
+      213: 762197808904557122
+    second: TobiDark_46
+  - first:
+      213: -5786852322414244578
+    second: TobiDark_47
+  - first:
+      213: -2692225798986180716
+    second: TobiDark_48
+  - first:
+      213: 8281956243786718260
+    second: TobiDark_49
+  - first:
+      213: -1464792153754982865
+    second: TobiDark_50
+  - first:
+      213: 3414618948339992823
+    second: TobiDark_51
+  - first:
+      213: 5659303842858621234
+    second: TobiDark_52
+  - first:
+      213: 3596609712562965640
+    second: TobiDark_53
+  - first:
+      213: -8131306455252063377
+    second: TobiDark_54
+  - first:
+      213: 4376887887703599817
+    second: TobiDark_55
+  - first:
+      213: 5703924910052030319
+    second: TobiDark_56
+  - first:
+      213: -3208413914680752741
+    second: TobiDark_57
+  - first:
+      213: -5343579685973548000
+    second: TobiDark_58
+  - first:
+      213: 407913415406744295
+    second: TobiDark_59
+  - first:
+      213: -6997391665293049754
+    second: TobiDark_60
+  - first:
+      213: 1216007624146879237
+    second: TobiDark_61
+  - first:
+      213: -5120476551366620409
+    second: TobiDark_62
+  - first:
+      213: 5767538781729531255
+    second: TobiDark_63
+  - first:
+      213: 3238906634865144917
+    second: TobiDark_64
+  - first:
+      213: -6396346054411414856
+    second: TobiDark_65
+  - first:
+      213: 5678330614242290672
+    second: TobiDark_66
+  - first:
+      213: 5424073430410057077
+    second: TobiDark_67
+  - first:
+      213: 5903251855376816670
+    second: TobiDark_68
+  - first:
+      213: 5781513605307755293
+    second: TobiDark_69
+  - first:
+      213: 9180287810294760382
+    second: TobiDark_70
+  - first:
+      213: 8984726431588251809
+    second: TobiDark_71
+  - first:
+      213: 6226968597295361181
+    second: TobiDark_72
+  - first:
+      213: -1776955001682226405
+    second: TobiDark_73
+  - first:
+      213: -6084686815226729443
+    second: TobiDark_74
+  - first:
+      213: -8556822269293851604
+    second: TobiDark_75
+  - first:
+      213: 874970393454456802
+    second: TobiDark_76
+  - first:
+      213: 4714278988227202473
+    second: TobiDark_77
+  - first:
+      213: -425209183039999253
+    second: TobiDark_78
+  - first:
+      213: -1438146251857256992
+    second: TobiDark_79
+  - first:
+      213: 2829156431709166362
+    second: TobiDark_80
+  - first:
+      213: 5416228796297748309
+    second: TobiDark_81
+  - first:
+      213: 2420645141028099251
+    second: TobiDark_82
+  - first:
+      213: -5208976403113195673
+    second: TobiDark_83
+  - first:
+      213: 6119783136750967996
+    second: TobiDark_84
+  - first:
+      213: 5562693910479585118
+    second: TobiDark_85
+  - first:
+      213: -5178159855642675615
+    second: TobiDark_86
+  - first:
+      213: 1746520223136184343
+    second: TobiDark_87
+  - first:
+      213: -2708742257626592813
+    second: TobiDark_88
+  - first:
+      213: -3723088322569000138
+    second: TobiDark_89
+  - first:
+      213: 1323696034477513688
+    second: TobiDark_90
+  - first:
+      213: -4537358350963541443
+    second: TobiDark_91
+  - first:
+      213: 6870674236016353461
+    second: TobiDark_92
+  - first:
+      213: 272498952153660578
+    second: TobiDark_93
+  - first:
+      213: 4113473298640065631
+    second: TobiDark_94
+  - first:
+      213: 4685826618515733094
+    second: TobiDark_95
+  - first:
+      213: 6158474812917127488
+    second: TobiDark_96
+  - first:
+      213: -7067348340514834559
+    second: TobiDark_97
+  - first:
+      213: -1036514189054277960
+    second: TobiDark_98
+  - first:
+      213: 3171275131770038049
+    second: TobiDark_99
+  - first:
+      213: 4700395592372348330
+    second: TobiDark_100
+  - first:
+      213: 1901139808183050277
+    second: TobiDark_101
+  - first:
+      213: 3150634848596625015
+    second: TobiDark_102
+  - first:
+      213: -3299601000404970189
+    second: TobiDark_103
+  - first:
+      213: 4406859844127144231
+    second: TobiDark_104
+  - first:
+      213: 8362193766932839610
+    second: TobiDark_105
+  - first:
+      213: 4237134825499957763
+    second: TobiDark_106
+  - first:
+      213: 417451079666649056
+    second: TobiDark_107
+  - first:
+      213: 782003739733881222
+    second: TobiDark_108
+  - first:
+      213: -2579239734385456697
+    second: TobiDark_109
+  - first:
+      213: 6576877890438499889
+    second: TobiDark_110
+  - first:
+      213: -11559017837854535
+    second: TobiDark_111
+  - first:
+      213: 6040926697211459486
+    second: TobiDark_112
+  - first:
+      213: -2638055180639379579
+    second: TobiDark_113
+  - first:
+      213: 4087885633558193687
+    second: TobiDark_114
+  - first:
+      213: 5580533632588386684
+    second: TobiDark_115
+  - first:
+      213: 6721118805348393200
+    second: TobiDark_116
+  - first:
+      213: 6319056414331580318
+    second: TobiDark_117
+  - first:
+      213: -3778100383374763944
+    second: TobiDark_118
+  - first:
+      213: 1141196440852443359
+    second: TobiDark_119
+  - first:
+      213: 8528368475406683514
+    second: TobiDark_120
+  - first:
+      213: -6857983059362685940
+    second: TobiDark_121
+  - first:
+      213: -5570986105288143012
+    second: TobiDark_122
+  - first:
+      213: -7656161496508542906
+    second: TobiDark_123
+  - first:
+      213: -7384352115042465691
+    second: TobiDark_124
+  - first:
+      213: -1140528228204563122
+    second: TobiDark_125
+  - first:
+      213: 7229642143893083888
+    second: TobiDark_126
+  - first:
+      213: -2734838591169609650
+    second: TobiDark_127
+  - first:
+      213: 8375977511561764134
+    second: TobiDark_128
+  - first:
+      213: 7600961437584061177
+    second: TobiDark_129
+  - first:
+      213: 3094877701185122784
+    second: TobiDark_130
+  - first:
+      213: 3963804255335453275
+    second: TobiDark_131
+  - first:
+      213: -4064452382716009463
+    second: TobiDark_132
+  - first:
+      213: 2504469630476196268
+    second: TobiDark_133
+  - first:
+      213: 9164469820446221990
+    second: TobiDark_134
+  - first:
+      213: 7794601757350162819
+    second: TobiDark_135
+  - first:
+      213: 6087110933372439068
+    second: TobiDark_136
+  - first:
+      213: 1668825386729688078
+    second: TobiDark_137
+  - first:
+      213: -5341904499974759429
+    second: TobiDark_138
+  - first:
+      213: 1878768732326826236
+    second: TobiDark_139
+  - first:
+      213: -8197901937136819664
+    second: TobiDark_140
+  - first:
+      213: 9043693939507377974
+    second: TobiDark_141
+  - first:
+      213: -769493569223835300
+    second: TobiDark_142
+  - first:
+      213: 8679431925498317390
+    second: TobiDark_143
+  - first:
+      213: -5769541913019926668
+    second: TobiDark_144
+  - first:
+      213: -8204069592785076561
+    second: TobiDark_145
+  - first:
+      213: 7960889308652824441
+    second: TobiDark_146
+  - first:
+      213: 3261839351801215833
+    second: TobiDark_147
+  - first:
+      213: -1252813921247189027
+    second: TobiDark_148
+  - first:
+      213: -1712097259150534966
+    second: TobiDark_149
+  - first:
+      213: -4333031445859451257
+    second: TobiDark_150
+  - first:
+      213: -3893646778483627826
+    second: TobiDark_151
+  - first:
+      213: 5126684233716627987
+    second: TobiDark_152
+  - first:
+      213: -978642455940119141
+    second: TobiDark_153
+  - first:
+      213: 4156358389953943141
+    second: TobiDark_154
+  - first:
+      213: 1327148578244940729
+    second: TobiDark_155
+  - first:
+      213: -5249862775080402055
+    second: TobiDark_156
+  - first:
+      213: 5166487359466951756
+    second: TobiDark_157
+  - first:
+      213: 5463123716845321501
+    second: TobiDark_158
+  - first:
+      213: 8791279587172727530
+    second: TobiDark_159
+  - first:
+      213: -2517554436746746713
+    second: TobiDark_160
+  - first:
+      213: -1947254619586991741
+    second: TobiDark_161
+  - first:
+      213: 4078987207759049490
+    second: TobiDark_162
+  - first:
+      213: 2476265540770873378
+    second: TobiDark_163
+  - first:
+      213: -4990144655844126047
+    second: TobiDark_164
+  - first:
+      213: 9170786728607329747
+    second: TobiDark_165
+  - first:
+      213: 8683861019993771426
+    second: TobiDark_166
+  - first:
+      213: -7775167240919069180
+    second: TobiDark_167
+  - first:
+      213: 1855667904196547928
+    second: TobiDark_168
+  - first:
+      213: -3642902847012138283
+    second: TobiDark_169
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TobiDark01_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1440
+        width: 80
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cca9110456649246aa8cb100bbd91d1
+      internalID: -1394641665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TobiDark01_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1440
+        width: 80
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcdc83c79937b71459b678fbc1ec295e
+      internalID: 594274311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TobiDark01_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1440
+        width: 80
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f39933279ebef4a833b6f5e1019728
+      internalID: -795274758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TobiDark01_3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1440
+        width: 80
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8461ecb49f82d2f4394107c78e563af9
+      internalID: -501435810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TobiDark01_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1360
+        width: 80
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eccf58398638ff64786870e56c450c79
+      internalID: 2092762443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TobiDark01_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1360
+        width: 80
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df1547f664a40ab478c677c170645d54
+      internalID: 866377347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TobiDark01_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 80
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 367743eab39511548901ac699ff1f4f2
+      internalID: 519898365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TobiDark01_7
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1280
+        width: 80
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aeb79ffe7be60e4fa480246071610a4
+      internalID: -549201043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TobiDark01_8
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1280
+        width: 80
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da19cdc1cc5832a49a68bc6a24ebbf56
+      internalID: -1382711926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TobiDark01_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1200
+        width: 80
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38865e1d9b58a39499d7cd336986ee87
+      internalID: 787637253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TobiDark01_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1200
+        width: 80
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b6bb2fe688239b4c8c3e4add71e8b49
+      internalID: -405024449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TobiDark01_11
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1200
+        width: 80
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e01e462dca22beb45ac2113ede7f7381
+      internalID: 1148904678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TobiDark01_12
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1200
+        width: 80
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b37238c39fa77284eb546ccb0b12a3a6
+      internalID: -2028011008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TobiDark01_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1120
+        width: 80
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62800612773971746a03d5a2bf410271
+      internalID: -451844356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TobiDark01_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1040
+        width: 80
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea636b823ff5744989073aacb4a75bb
+      internalID: -1091936817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TobiDark01_15
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1040
+        width: 80
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae0781a020927cd449ae2f29f85cde8d
+      internalID: -907347989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TobiDark01_16
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1040
+        width: 80
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f742dfb5eca6f84abc159d4b389c60e
+      internalID: 1619627233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TobiDark01_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 80
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b85de8b45c80443aa3e3b53dece99d
+      internalID: 408237090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TobiDark01_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 880
+        width: 80
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cff9250cea03d8f45909ffac3c7abdb8
+      internalID: -871653408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TobiDark01_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 80
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90fe4f60cfff9a545b1f88ab915ddaa7
+      internalID: -132512423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TobiDark01_20
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 800
+        width: 80
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b264bf36649279b42b0ec2c2378b0b8c
+      internalID: 113394760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TobiDark01_21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 800
+        width: 80
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e6d5273ce0993e45a72c35c1e07f7f3
+      internalID: 1009971870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TobiDark01_22
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 800
+        width: 80
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c985bad8d3bc46d418b0a48d0a96a91d
+      internalID: 606735180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TobiDark01_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 80
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7fd14a0c135ae4481dce8d74764f1d
+      internalID: 785378789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TobiDark01_24
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 720
+        width: 80
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d4a52c59615e1439ca93c7ddabf086
+      internalID: 1369620091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TobiDark01_25
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 720
+        width: 80
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1766b53d8964856499d332e8eb34a202
+      internalID: -591592794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TobiDark01_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 80
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c1e1f393cbe1c4982b86389696e6bb
+      internalID: 1630396946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TobiDark01_27
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 640
+        width: 80
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84fc40c75e18a8d4092c7db85eb8f2dc
+      internalID: 1819678144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TobiDark01_28
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 640
+        width: 80
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af3fcc4b7d54374dae422560dc3e1f9
+      internalID: -1438369488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TobiDark01_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 560
+        width: 80
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67303a698abf37b47a9b1865317ae7f8
+      internalID: 1717297974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TobiDark01_30
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 560
+        width: 80
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19f037312b09eb24dba2491af3a9c308
+      internalID: -1801301959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TobiDark01_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 80
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0860c155062fd744eba9c10313eb458c
+      internalID: -34672265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TobiDark01_32
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 480
+        width: 80
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7cbd2cf4b6dddc499accd85e8f31e91
+      internalID: -417550183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TobiDark01_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 80
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90fd633b5198c314887312da7a87682e
+      internalID: 1062222447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TobiDark01_34
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 400
+        width: 80
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6999e708f1e265a49b8ad4fac265b0c4
+      internalID: -766188536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TobiDark01_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 80
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 095da3eac4048e545b6b58797007a020
+      internalID: -1503450750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TobiDark01_36
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 320
+        width: 80
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 985fa78a7373cdb4ebc4770e6bcab604
+      internalID: -1808957150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TobiDark01_37
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 80
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c447ac5c052e7a41ad2a5fd33066e75
+      internalID: 1549989723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TobiDark01_38
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 320
+        width: 80
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a597a3db82ee6a46a9f1f4f5bc013e5
+      internalID: 1053034389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TobiDark01_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 80
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1bea5f30dacca643b24a84c14988b60
+      internalID: -1428621612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TobiDark01_40
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 240
+        width: 80
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f123c31e84865284c8c85f9aaa115921
+      internalID: 2018046813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TobiDark01_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 80
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee7e15d5341f1af4c8428489b7e03842
+      internalID: 1959937602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TobiDark01_42
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 160
+        width: 80
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 297c73779be2b864e8e79963f7941557
+      internalID: 1978521498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TobiDark01_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 80
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f9aeadf69840814b972c29ab4bb0f40
+      internalID: -767361540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TobiDark01_44
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 80
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3442fdadc594c44c92dc37b0d052df0
+      internalID: 1428555571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TobiDark01_45
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 80
+        width: 80
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d57f8259dbf1a674b97aef4fe2abc6d7
+      internalID: -626492979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TobiDark01_46
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 80
+        width: 80
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a6271477c9e65a429e3aa8fa26cbcaf
+      internalID: 1643232997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TobiDark01_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6024dc20f25e3914e86e57e8e7f70cc2
+      internalID: 1979680121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TobiDark01_48
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 80
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 218f23d22f449a44186d4ebfd5ef313a
+      internalID: 982266552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TobiDark01_49
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 80
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06fc40dcd8c261944b95ba2d5162ff2e
+      internalID: -1351629812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TobiDark01_50
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 80
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0820517b3863e7b49a5c9c4612058541
+      internalID: 1032372375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TobiDark01_51
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1440
+        width: 80
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd44ffe0fd7f5c469da88f84f607a97
+      internalID: 2033343045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TobiDark01_52
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1440
+        width: 80
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e0f6df291a61f64ab8c86daa2e6b5a3
+      internalID: 417322604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TobiDark01_53
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1440
+        width: 80
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c64a2f0e2926514ea0b477cf558130d
+      internalID: -1324155316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TobiDark01_54
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1440
+        width: 80
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e406f6fbbce3da4b85bbac41516405e
+      internalID: 1330720606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TobiDark01_55
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1440
+        width: 80
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 182e90122d0346b43b548938613d69d5
+      internalID: -1350168074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TobiDark01_56
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1440
+        width: 80
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd847529f3e5854eb42d5552dc90056
+      internalID: 1795638746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TobiDark01_57
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1440
+        width: 80
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ab604aa6ba16240a1ec1e52649cb07
+      internalID: 262560674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TobiDark01_58
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1360
+        width: 80
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355a3036db62c5e4299e98489eb2af38
+      internalID: 1543001145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TobiDark01_59
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1360
+        width: 80
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df922ea1c6dcb0f49b20c525e0b6eb26
+      internalID: 1989471495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TobiDark01_60
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1360
+        width: 80
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b5acb2b2b4fbf4ea14823186df7c34
+      internalID: -1269549160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TobiDark01_61
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1280
+        width: 80
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e952003c3c2e54a8a49177c830797a
+      internalID: -615675600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TobiDark01_62
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1280
+        width: 80
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a05cea416e92241867fa53cfe01b57
+      internalID: 546195134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TobiDark01_63
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1200
+        width: 80
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c94af0f9cdf94d4e8c8b2e840eca7d3
+      internalID: 698742971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TobiDark01_64
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1200
+        width: 80
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c4344f2c4393054a9dbb3cb986fe1ca
+      internalID: 1107497919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TobiDark01_65
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1120
+        width: 80
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee30cfffe11bed84ba563aa3c15a8abf
+      internalID: 1482622843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TobiDark01_66
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1120
+        width: 80
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0511be22ab863f4ca844c216daec304
+      internalID: -627427045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TobiDark01_67
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1120
+        width: 80
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0466c2780cce1ef4cb8804bdf70bad3c
+      internalID: -1888765837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      TobiDark01_42: 1978521498
+      TobiDark01_36: -1808957150
+      TobiDark01_9: 787637253
+      TobiDark01_63: 698742971
+      TobiDark01_49: -1351629812
+      TobiDark01_1: 594274311
+      TobiDark01_57: 262560674
+      TobiDark01_39: -1428621612
+      TobiDark01_0: -1394641665
+      TobiDark01_3: -501435810
+      TobiDark01_19: -132512423
+      TobiDark01_51: 2033343045
+      TobiDark01_33: 1062222447
+      TobiDark01_21: 1009971870
+      TobiDark01_28: -1438369488
+      TobiDark01_61: -615675600
+      TobiDark01_40: 2018046813
+      TobiDark01_59: 1989471495
+      TobiDark01_34: -766188536
+      TobiDark01_53: -1324155316
+      TobiDark01_13: -451844356
+      TobiDark01_2: -795274758
+      TobiDark01_12: -2028011008
+      TobiDark01_37: 1549989723
+      TobiDark01_18: -871653408
+      TobiDark01_50: 1032372375
+      TobiDark01_16: 1619627233
+      TobiDark01_60: -1269549160
+      TobiDark01_38: 1053034389
+      TobiDark01_4: 2092762443
+      TobiDark01_20: 113394760
+      TobiDark01_65: 1482622843
+      TobiDark01_17: 408237090
+      TobiDark01_56: 1795638746
+      TobiDark01_26: 1630396946
+      TobiDark01_22: 606735180
+      TobiDark01_35: -1503450750
+      TobiDark01_43: -767361540
+      TobiDark01_48: 982266552
+      TobiDark01_5: 866377347
+      TobiDark01_54: 1330720606
+      TobiDark01_7: -549201043
+      TobiDark01_23: 785378789
+      TobiDark01_27: 1819678144
+      TobiDark01_55: -1350168074
+      TobiDark01_11: 1148904678
+      TobiDark01_66: -627427045
+      TobiDark01_30: -1801301959
+      TobiDark01_46: 1643232997
+      TobiDark01_64: 1107497919
+      TobiDark01_67: -1888765837
+      TobiDark01_41: 1959937602
+      TobiDark01_8: -1382711926
+      TobiDark01_6: 519898365
+      TobiDark01_24: 1369620091
+      TobiDark01_29: 1717297974
+      TobiDark01_14: -1091936817
+      TobiDark01_45: -626492979
+      TobiDark01_58: 1543001145
+      TobiDark01_32: -417550183
+      TobiDark01_15: -907347989
+      TobiDark01_47: 1979680121
+      TobiDark01_10: -405024449
+      TobiDark01_52: 417322604
+      TobiDark01_31: -34672265
+      TobiDark01_25: -591592794
+      TobiDark01_62: 546195134
+      TobiDark01_44: 1428555571
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

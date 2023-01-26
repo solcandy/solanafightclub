@@ -12,8 +12,8 @@ PlayerSettings:
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
-  companyName: AbyssalsStudios
-  productName: Darklings
+  companyName: SFC Studios
+  productName: SFC
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0, g: 0, b: 0, a: 1}
@@ -319,7 +319,7 @@ PlayerSettings:
   - m_BuildTarget: 
     m_Icons:
     - serializedVersion: 2
-      m_Icon: {fileID: 2800000, guid: c940accb065210146b782d1d29a57bef, type: 3}
+      m_Icon: {fileID: 2800000, guid: cb893d9a74bf14e18bccd17fbf02f435, type: 3}
       m_Width: 128
       m_Height: 128
       m_Kind: 0
@@ -728,15 +728,15 @@ PlayerSettings:
     m_VersionName: 
   apiCompatibilityLevel: 6
   activeInputHandler: 2
-  cloudProjectId: 2cb443b2-b7ef-4c63-9e3d-a5400878e71c
+  cloudProjectId: 15245111-f660-46bc-bc6b-c1373e4ed90e
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames:
   - High
   - Very High
   - Ultra
   - Darklings
-  projectName: Darklings
-  organizationId: kidagine
+  projectName: SFC
+  organizationId: antoniorodlab
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   playerDataPath: 
